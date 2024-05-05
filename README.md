@@ -13,11 +13,7 @@ Welcome to the QR Code Generator! This project is a simple yet powerful tool for
 
 To use this QR code generator, follow these steps:
 
-1. Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/node-qrcode-generator.git
-```
+1. Clone the repository
 
 2. Navigate to the project directory:
 
